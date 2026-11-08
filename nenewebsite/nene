@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Little World of Nene ♡</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <main class="scrapbook">
+
+        <div class="tape">made with love ♡</div>
+
+        <p class="small-title">A SPECIAL LITTLE PLACE FOR</p>
+
+        <h1>Hey, Nene! <span>♡</span></h1>
+
+        <p class="subtitle">
+            A little world filled with memories,
+            smiles and everything that makes you YOU.
+        </p>
+
+        <div class="photo-frame">
+            <div class="photo-placeholder">
+                <span>📸</span>
+                <p>Your favorite memories go here</p>
+            </div>
+            <p class="photo-caption">The world is better with you in it ♡</p>
+        </div>
+
+        <button id="surpriseButton">
+            Open a little surprise ✨
+        </button>
+
+        <p id="surpriseMessage" class="surprise-message"></p>
+
+        <div class="footer">
+            A website made just for you, Nene ♡
+        </div>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
